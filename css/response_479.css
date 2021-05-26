@@ -1,0 +1,324 @@
+@media (max-width: 479px)
+{
+    /*-------------------
+        Global styles
+    -------------------*/
+
+
+
+    /*----------------
+        Pagination
+    ----------------*/
+    .pagination
+    {
+        margin-top: 24px !important;
+    }
+
+
+    .pagination div
+    {
+        padding: 8px 12px;
+    }
+
+    .pagination div a + a
+    {
+        margin-left: 8px;
+    }
+
+    .pagination div a
+    {
+        font-size: 17px;
+    }
+
+
+    .pagination .prev
+    {
+        margin-right: auto;
+    }
+
+    .pagination .next
+    {
+        margin-left: auto;
+    }
+
+
+
+    /*------------
+        Header
+    ------------*/
+    .mob_header .logo,
+    .mob_header .logo img
+    {
+        width: 112px;
+    }
+
+
+    .mob_header .contacts > * + *
+    {
+        margin-left: auto;
+    }
+
+    .mob_header .contacts .phone .icon,
+    .mob_header .contacts .email .icon
+    {
+        display: none;
+    }
+
+
+
+    /*---------------
+        Page head
+    ---------------*/
+    .page_head .date
+    {
+        margin-top: 12px;
+    }
+
+
+
+    /*-------------
+        Sidebar
+    -------------*/
+    aside .hostory_banner,
+    aside .banner
+    {
+        padding: 28px;
+    }
+
+
+
+    aside .links
+    {
+        padding-top: 24px;
+        padding-bottom: 20px;
+    }
+
+    aside .links .block_title
+    {
+        font-size: 32px;
+
+        top: -16px;
+
+        padding: 0 24px;
+    }
+
+    aside .links a
+    {
+        font-size: 19px;
+
+        padding: 6px 24px;
+    }
+
+
+
+    /*-----------------
+        Main slider
+    -----------------*/
+    .main_slider .slide .image
+    {
+        height: 240px;
+    }
+
+
+
+    /*------------
+        Events
+    ------------*/
+    .events .row > *
+    {
+        width: calc(100% - 3px);
+    }
+
+
+    .events .event .info
+    {
+        padding: 24px;
+    }
+
+    .events .event .name
+    {
+        font-size: 24px;
+    }
+
+
+
+    /*-------------------
+        Contacts info
+    -------------------*/
+    .contacts_info .data > .title
+    {
+        font-size: 28px;
+
+        margin-bottom: 20px;
+    }
+
+
+    .contacts_info .data .info
+    {
+        margin-bottom: -24px;
+        margin-left: 0;
+    }
+
+    .contacts_info .data .info > *
+    {
+        width: 100%;
+        margin-bottom: 24px;
+        margin-left: 0;
+    }
+
+
+    .contacts_info .time .item
+    {
+        width: calc(100% + 48px);
+        margin-right: -24px;
+        margin-left: -24px;
+    }
+
+    .contacts_info .time .item .title
+    {
+        font-size: 16px;
+
+        margin-bottom: 16px;
+    }
+
+    .contacts_info .time .item .name
+    {
+        width: 100%;
+        margin-bottom: 4px;
+    }
+
+    .contacts_info .time .item .val
+    {
+        width: 100%;
+    }
+
+
+
+    /*--------------
+        Feedback
+    --------------*/
+    .feedback .data
+    {
+        width: calc(100% + 48px);
+        margin-right: -24px;
+        margin-left: -24px;
+        padding: 40px 24px;
+    }
+
+
+
+    /*-----------
+        Files
+    -----------*/
+    .files .file
+    {
+        min-height: 76px;
+        padding: 12px 19px 12px 76px;
+    }
+
+    .files .file .icon
+    {
+        left: 19px;
+
+        width: 36px;
+    }
+
+    .files .file .name
+    {
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+
+
+    /*----------
+        Team
+    ----------*/
+    .team .row > *
+    {
+        width: calc(100% - 2px);
+    }
+
+
+    .team .person
+    {
+        padding: 32px 24px;
+    }
+
+    .team .person .photo
+    {
+        width: 152px;
+        height: 152px;
+    }
+
+    .team .person .name
+    {
+        font-size: 26px;
+    }
+
+    .team .person .post
+    {
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+
+
+    /*----------------
+        Audioguide
+    ----------------*/
+    .audioguide .item
+    {
+        padding-left: 52px;
+    }
+
+    .audioguide .item .title
+    {
+        font-size: 25px;
+    }
+
+
+
+    /*---------------------
+        Activation code
+    ---------------------*/
+    .activation_code
+    {
+        margin-top: 52px !important;
+        padding: 36px 24px 24px;
+    }
+
+
+    .activation_code .block_title
+    {
+        font-size: 34px;
+
+        top: -17px;
+
+        padding: 0 24px;
+    }
+
+
+
+    /*------------
+        Footer
+    ------------*/
+    footer .phones
+    {
+        width: 100%;
+    }
+
+
+    footer .contacts,
+    footer .socials
+    {
+        width: auto;
+        margin-top: 12px;
+    }
+
+
+    footer .copyright br
+    {
+        display: none;
+    }
+}
