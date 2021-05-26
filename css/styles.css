@@ -217,6 +217,17 @@ button
 }
 
 
+.compensate-for-scrollbar
+{
+    margin-right: var(--scroll_width) !important;
+}
+
+.compensate-for-scrollbar header.fixed
+{
+    padding-right: var(--scroll_width) !important;
+}
+
+
 .wrap
 {
     position: relative;
