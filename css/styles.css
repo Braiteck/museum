@@ -137,14 +137,14 @@ button
 {
     color: #fff;
 
-    background: #d6af47;
+    background: #f5c533;
 }
 
 ::-moz-selection
 {
     color: #fff;
 
-    background: #d6af47;
+    background: #f5c533;
 }
 
 
@@ -183,12 +183,12 @@ html.custom_scroll ::-webkit-scrollbar
 
 html.custom_scroll ::-webkit-scrollbar-thumb
 {
-    background-color: #d6af47;
+    background-color: #f5c533;
 }
 
 html.custom_scroll
 {
-    scrollbar-color: #d6af47 #ccc;
+    scrollbar-color: #f5c533 #ccc;
     scrollbar-width: thin;
 }
 
@@ -452,7 +452,7 @@ button
 {
     color: var(--text_color);
 
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -511,7 +511,7 @@ button
 .pagination .prev:hover,
 .pagination .next:hover
 {
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -898,7 +898,7 @@ header .menu .item > a.sub_link:after
 header .menu .item:hover > a,
 header .menu .item > a.active
 {
-    background: #eeca69;
+    background: #f5c533;
 }
 
 header .menu .item:hover > a.sub_link:after
@@ -994,7 +994,7 @@ header .menu .sub_menu a
 header .menu .sub_menu a:hover,
 header .menu .sub_menu a.active
 {
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -1319,9 +1319,9 @@ aside .hostory_banner
     text-align: center;
     text-decoration: none;
 
-    background:    -moz-linear-gradient( -143deg, rgb(1,88,149) 0%, rgb(0,139,210) 99%);
-    background: -webkit-linear-gradient( -143deg, rgb(1,88,149) 0%, rgb(0,139,210) 99%);
-    background:     -ms-linear-gradient( -143deg, rgb(1,88,149) 0%, rgb(0,139,210) 99%);
+    background:    -moz-linear-gradient( -143deg, rgb(50,86,138) 0%, rgb(54,94,163) 99%);
+    background: -webkit-linear-gradient( -143deg, rgb(50,86,138) 0%, rgb(54,94,163) 99%);
+    background:     -ms-linear-gradient( -143deg, rgb(50,86,138) 0%, rgb(54,94,163) 99%);
 }
 
 
@@ -1334,7 +1334,6 @@ aside .hostory_banner .title
 
     margin-bottom: 24px;
 
-    text-align: left;
     text-transform: uppercase;
 }
 
@@ -1417,9 +1416,9 @@ aside .banner
     text-align: center;
     text-decoration: none;
 
-    background:    -moz-linear-gradient( -143deg, rgb(238,202,105) 0%, rgb(206,166,60) 99%);
-    background: -webkit-linear-gradient( -143deg, rgb(238,202,105) 0%, rgb(206,166,60) 99%);
-    background:     -ms-linear-gradient( -143deg, rgb(238,202,105) 0%, rgb(206,166,60) 99%);
+    background:    -moz-linear-gradient( -143deg, rgb(118,11,19) 0%, rgb(155,41,50) 100%);
+    background: -webkit-linear-gradient( -143deg, rgb(118,11,19) 0%, rgb(155,41,50) 100%);
+    background:     -ms-linear-gradient( -143deg, rgb(118,11,19) 0%, rgb(155,41,50) 100%);
 }
 
 
@@ -1618,7 +1617,7 @@ aside .links a.active
 
 .breadcrumbs a:hover
 {
-    color: #eeca69;
+    color: #f5c533;
 }
 
 .breadcrumbs .sep
@@ -1634,7 +1633,7 @@ aside .links a.active
 
     vertical-align: middle;
 
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -1670,7 +1669,7 @@ aside .links a.active
     text-transform: uppercase;
 
     border-radius: 4px;
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -2109,7 +2108,7 @@ aside .links a.active
     vertical-align: middle;
 
     border: 1px solid #b3b3b3;
-    background: #eeca69;
+    background: #f5c533;
 }
 
 .text_block table td
@@ -2363,7 +2362,7 @@ aside .links a.active
 
     padding: 36px 66px;
 
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -2521,7 +2520,7 @@ aside .links a.active
     text-transform: uppercase;
 
     border-radius: 4px;
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -2850,7 +2849,7 @@ aside .links a.active
 {
     padding: 42px;
 
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -3024,7 +3023,7 @@ aside .links a.active
     white-space: nowrap;
 
     border-radius: 4px;
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -3158,7 +3157,7 @@ aside .links a.active
     pointer-events: none;
 
     border-radius: 50%;
-    background: #eeca69;
+    background: #f5c533;
     box-shadow: 0 0 0 5px #fff;
 }
 
@@ -3177,7 +3176,7 @@ aside .links a.active
     content: '';
     pointer-events: none;
 
-    background: #eeca69;
+    background: #f5c533;
 }
 
 .audioguide .item:last-child:after
@@ -3290,7 +3289,7 @@ aside .links a.active
 
 .activation_code .form .submit_btn
 {
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
@@ -3397,7 +3396,7 @@ footer .menu .item > a.active
 {
     color: var(--text_color);
 
-    background: #eeca69;
+    background: #f5c533;
 }
 
 
